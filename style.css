@@ -6,7 +6,7 @@ html {
 *:before,
 *:after {
   box-sizing: inherit;
-  font-family: sourcemonospace;
+  font-family: source code pro, monospace;
   margin: 0;
   padding: 0;
 }
