@@ -1,0 +1,43 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  font-family: sourcemonospace;
+  margin: 0;
+  padding: 0;
+}
+
+.bg-dark {
+  background: #333;
+}
+
+.bg-black {
+  background: #000;
+}
+
+#write {
+  padding: 1em;
+  border: none;
+  background: #333;
+  color: #aaa;
+  max-width: 600px;
+  margin: auto;
+  display: block;
+  outline: none;
+}
+
+html, body {
+  height: 100%;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.full-width {
+  width: 100%;
+}

@@ -1,0 +1,21 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Better",
+    "display": "standalone",
+    "short_name": "better",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [{
+        "src": "images/icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "url": "/",
+    "start_url": "/better/",
+    "generated": "true"
+}
